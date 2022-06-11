@@ -1,0 +1,13 @@
+Condition	Ct	Gene
+Ctrl	24.5	TXNRD1
+Ctrl	24.4	TXNRD1
+Ctrl	24.4	TXNRD1
+Hypo	23.6	TXNRD1
+Hypo	24.4	TXNRD1
+Hypo	23.4	TXNRD1
+Ctrl	27	LBR
+Ctrl	26.2	LBR
+Ctrl	26.9	LBR
+Hypo	27.8	LBR
+Hypo	27.3	LBR
+Hypo	27.2	LBR

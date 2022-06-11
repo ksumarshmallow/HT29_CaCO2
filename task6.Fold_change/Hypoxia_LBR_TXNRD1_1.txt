@@ -1,0 +1,12 @@
+Ct	Condition	Gene
+23.7	Ctrl	TXNRD1
+24.2	Ctrl	TXNRD1
+24.2	Ctrl	TXNRD1
+23.2	Hypo	TXNRD1
+23.4	Hypo	TXNRD1
+23.5	Hypo	TXNRD1
+27.1	Ctrl	LBR
+27.1	Ctrl	LBR
+28.6	Hypo	LBR
+28	Hypo	LBR
+28.1	Hypo	LBR
